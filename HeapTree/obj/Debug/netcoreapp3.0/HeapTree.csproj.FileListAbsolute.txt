@@ -1,0 +1,11 @@
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.deps.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.runtimeconfig.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.runtimeconfig.dev.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\bin\Debug\netcoreapp3.0\HeapTree.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\obj\Debug\netcoreapp3.0\HeapTree.csprojAssemblyReference.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\obj\Debug\netcoreapp3.0\HeapTree.AssemblyInfoInputs.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\obj\Debug\netcoreapp3.0\HeapTree.AssemblyInfo.cs
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\obj\Debug\netcoreapp3.0\HeapTree.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapTree\obj\Debug\netcoreapp3.0\HeapTree.pdb

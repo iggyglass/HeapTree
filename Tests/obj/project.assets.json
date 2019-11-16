@@ -1962,6 +1962,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "HeapTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/HeapTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HeapTree.dll": {}
+        }
       }
     }
   },
@@ -6509,10 +6519,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "HeapTree/1.0.0": {
+      "type": "project",
+      "path": "../HeapTree/HeapTree.csproj",
+      "msbuildProject": "../HeapTree/HeapTree.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "HeapTree >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
       "xunit >= 2.4.0",
@@ -6551,7 +6567,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj": {
+              "projectPath": "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
