@@ -6,7 +6,8 @@ namespace HeapTree
     {
         static void Main(string[] args)
         {
-            // TODO: Write tests in unit tests project 
+            // TODO:
+            //   - Write Heap Sort
 
             HeapTree<int> tree = new HeapTree<int>(10);
 
@@ -18,7 +19,8 @@ namespace HeapTree
                 tree.Insert(i);
             }
 
-            // Pop not correct -- currently moves a "null" value into root
+            // pop should be:
+            // 2 3 5 6 4
 
             int temp = tree.Pop();
 

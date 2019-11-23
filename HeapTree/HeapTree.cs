@@ -6,10 +6,6 @@ namespace HeapTree
     {
         // This is a min-heap implementation:
 
-        // TODO:
-        //   - Write unit tests
-        //   - Fix Pop() (currently moves a "null" value into root)
-
         // Left node = i * 2 + 1
         // Right node = i * 2 + 2
         // Parent node = (i - 1) / 2
@@ -53,7 +49,7 @@ namespace HeapTree
             T temp = tree[0];
             tree[0] = default;
 
-            swap(0, tp);
+            swap(0, tp - 1);
             tp--;
 
             heapifyDown(0);
@@ -72,6 +68,7 @@ namespace HeapTree
 
         #endregion
         #region Private Methods
+
         private void heapifyUp(int index)
         {
             if (index == 0) return; // Return if root
@@ -90,17 +87,17 @@ namespace HeapTree
             int left = getLeft(index);
             int right = getRight(index);
 
-            if (right < tree.Length && tree[left].CompareTo(tree[right]) > 0) // right < left
+            if (right < tp && tree[right].CompareTo(tree[left]) < 0) // right < left
             {
-                if (tree[index].CompareTo(tree[right]) > 0) // right < this
+                if (tree[right].CompareTo(tree[index]) < 0) // right < this
                 {
                     swap(right, index);
                     heapifyDown(right);
                 }
             }
-            else if (left < tree.Length) // left < right
+            else if (left < tp) // left < right
             {
-                if (tree[index].CompareTo(tree[left]) > 0) // left < this
+                if (tree[left].CompareTo(tree[index]) < 0) // left < this
                 {
                     swap(left, index);
                     heapifyDown(left);
@@ -141,6 +138,7 @@ namespace HeapTree
         {
             return (index - 1) / 2;
         }
+
         #endregion
     }
 }

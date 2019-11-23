@@ -6,9 +6,6 @@ namespace Tests
 {
     public class UnitTest1
     {
-        // TODO:
-        //   -Impliment functions then write tests
-
         [Fact]
         public void Insert()
         {
@@ -29,6 +26,8 @@ namespace Tests
         {
             HeapTree<int> tree = new HeapTree<int>(10);
 
+            int[] expected = { 2, 3, 5, 6, 4, 0, 0, 0, 0, 0 };
+
             for (int i = 6; i > 0; i--)
             {
                 tree.Insert(i);
@@ -38,7 +37,7 @@ namespace Tests
 
             Assert.Equal(1, temp);
 
-            // todo: test if tree is correct
+            Assert.Equal(expected, tree.GetTree());
         }
     }
 }
