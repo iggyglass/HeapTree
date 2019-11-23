@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PriorityQueue/1.0.0": {
+        "dependencies": {
+          "HeapTree": "1.0.0"
+        },
+        "runtime": {
+          "PriorityQueue.dll": {}
+        }
+      },
+      "HeapTree/1.0.0": {
+        "runtime": {
+          "HeapTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeapTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

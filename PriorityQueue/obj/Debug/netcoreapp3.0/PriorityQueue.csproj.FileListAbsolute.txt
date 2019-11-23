@@ -1,0 +1,15 @@
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\HeapTree.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.deps.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.runtimeconfig.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.runtimeconfig.dev.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\PriorityQueue.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\HeapTree.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\bin\Debug\netcoreapp3.0\HeapTree.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.csprojAssemblyReference.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.AssemblyInfo.cs
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.csproj.CopyComplete
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\PriorityQueue\obj\Debug\netcoreapp3.0\PriorityQueue.pdb

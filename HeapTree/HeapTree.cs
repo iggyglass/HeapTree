@@ -2,6 +2,12 @@
 
 namespace HeapTree
 {
+
+    /// <summary>
+    /// A Binary tree where all elements are stored in a
+    /// singular array
+    /// </summary>
+    /// <typeparam name="T">The type of tree node</typeparam>
     public class HeapTree<T> where T : IComparable
     {
         // This is a min-heap implementation:

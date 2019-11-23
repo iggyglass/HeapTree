@@ -1,5 +1,6 @@
 using HeapTree;
 using HeapSort;
+using PriorityQueue;
 using System;
 using Xunit;
 
@@ -7,6 +8,9 @@ namespace Tests
 {
     public class UnitTest1
     {
+
+        #region Heap Tree Tests
+
         [Fact]
         public void Insert()
         {
@@ -41,6 +45,9 @@ namespace Tests
             Assert.Equal(expected, tree.GetTree());
         }
 
+        #endregion
+        #region Heap Sort Tests
+
         [Fact]
         public void Sort()
         {
@@ -52,5 +59,26 @@ namespace Tests
 
             Assert.Equal(expected, val);
         }
+
+        #endregion
+        #region Priority Queue Tests
+
+        [Fact]
+        public void Queue()
+        {
+            PriorityQueue<int> queue = new PriorityQueue<int>(5);
+
+            for (int i = 5; i > 0; i--)
+            {
+                queue.Enqueue(i);
+            }
+
+            for (int i = 0; i < 5; i++)
+            {
+                Assert.Equal(i, queue.Dequeue());
+            }
+        }
+
+        #endregion
     }
 }

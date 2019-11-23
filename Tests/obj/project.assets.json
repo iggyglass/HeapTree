@@ -1985,6 +1985,19 @@
         "runtime": {
           "bin/placeholder/HeapTree.dll": {}
         }
+      },
+      "PriorityQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "HeapTree": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PriorityQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PriorityQueue.dll": {}
+        }
       }
     }
   },
@@ -6542,6 +6555,11 @@
       "type": "project",
       "path": "../HeapTree/HeapTree.csproj",
       "msbuildProject": "../HeapTree/HeapTree.csproj"
+    },
+    "PriorityQueue/1.0.0": {
+      "type": "project",
+      "path": "../PriorityQueue/PriorityQueue.csproj",
+      "msbuildProject": "../PriorityQueue/PriorityQueue.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6549,6 +6567,7 @@
       "HeapSort >= 1.0.0",
       "HeapTree >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
+      "PriorityQueue >= 1.0.0",
       "coverlet.collector >= 1.0.1",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -6592,6 +6611,9 @@
             },
             "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj": {
               "projectPath": "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj"
+            },
+            "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\PriorityQueue\\PriorityQueue.csproj": {
+              "projectPath": "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\PriorityQueue\\PriorityQueue.csproj"
             }
           }
         }
