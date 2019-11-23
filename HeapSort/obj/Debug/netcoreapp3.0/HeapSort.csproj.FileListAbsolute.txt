@@ -1,0 +1,15 @@
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapTree.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.deps.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.runtimeconfig.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.runtimeconfig.dev.json
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapSort.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapTree.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\bin\Debug\netcoreapp3.0\HeapTree.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.csprojAssemblyReference.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.AssemblyInfo.cs
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.csproj.CopyComplete
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\HeapSort\obj\Debug\netcoreapp3.0\HeapSort.pdb

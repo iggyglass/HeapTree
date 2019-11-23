@@ -66,6 +66,15 @@ namespace HeapTree
             return tree;
         }
 
+        /// <summary>
+        /// Returns true if the tree is empty
+        /// </summary>
+        /// <returns>If the tree is empty</returns>
+        public bool IsEmpty()
+        {
+            return tp == 0;
+        }
+
         #endregion
         #region Private Methods
 

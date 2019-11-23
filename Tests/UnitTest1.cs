@@ -1,4 +1,5 @@
 using HeapTree;
+using HeapSort;
 using System;
 using Xunit;
 
@@ -38,6 +39,18 @@ namespace Tests
             Assert.Equal(1, temp);
 
             Assert.Equal(expected, tree.GetTree());
+        }
+
+        [Fact]
+        public void Sort()
+        {
+            int[] expected = { 1, 2, 3, 4, 5 };
+            int[] val = { 3, 2, 4, 1, 5 };
+
+            HeapSort<int> sort = new HeapSort<int>();
+            val = sort.Sort(val);
+
+            Assert.Equal(expected, val);
         }
     }
 }

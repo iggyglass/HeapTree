@@ -95,3 +95,6 @@ C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\obj\Debug\netcoreapp3.0\Tests
 C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\obj\Debug\netcoreapp3.0\Tests.csproj.CopyComplete
 C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\obj\Debug\netcoreapp3.0\Tests.dll
 C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\bin\Debug\netcoreapp3.0\HeapSort.exe
+C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\bin\Debug\netcoreapp3.0\HeapSort.dll
+C:\Users\Iggy.Glassman\source\repos\HeapTree\Tests\bin\Debug\netcoreapp3.0\HeapSort.pdb

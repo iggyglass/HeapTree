@@ -1963,6 +1963,19 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "HeapSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "HeapTree": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HeapSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HeapSort.dll": {}
+        }
+      },
       "HeapTree/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -6520,6 +6533,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "HeapSort/1.0.0": {
+      "type": "project",
+      "path": "../HeapSort/HeapSort.csproj",
+      "msbuildProject": "../HeapSort/HeapSort.csproj"
+    },
     "HeapTree/1.0.0": {
       "type": "project",
       "path": "../HeapTree/HeapTree.csproj",
@@ -6528,6 +6546,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "HeapSort >= 1.0.0",
       "HeapTree >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
@@ -6568,6 +6587,9 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
+            "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapSort\\HeapSort.csproj": {
+              "projectPath": "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapSort\\HeapSort.csproj"
+            },
             "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj": {
               "projectPath": "C:\\Users\\Iggy.Glassman\\source\\repos\\HeapTree\\HeapTree\\HeapTree.csproj"
             }
