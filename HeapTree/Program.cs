@@ -6,9 +6,6 @@ namespace HeapTree
     {
         static void Main(string[] args)
         {
-            // TODO:
-            //   - Write Heap Sort
-
             HeapTree<int> tree = new HeapTree<int>(10);
 
             // insert should be:
