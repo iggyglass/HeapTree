@@ -27,6 +27,18 @@ namespace Tests
         }
 
         [Fact]
+        public void Empty()
+        {
+            HeapTree<int> tree = new HeapTree<int>(5);
+
+            Assert.True(tree.IsEmpty());
+
+            tree.Insert(5);
+
+            Assert.False(tree.IsEmpty());
+        }
+
+        [Fact]
         public void Pop()
         {
             HeapTree<int> tree = new HeapTree<int>(10);
